@@ -133,8 +133,7 @@ module.exports = {
         'modifying-docker',
         'multisite',
         's3-configuration',
-        'custom-css',
-		'env-configuration'
+        'custom-css'
       ],
       '/contributing/': [
         ''
